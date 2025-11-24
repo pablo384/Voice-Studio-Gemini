@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Studio",
+  "description": "A comprehensive voice application featuring Text-to-Speech generation, real-time conversational AI (Live API), and fast text interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
